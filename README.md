@@ -16,6 +16,14 @@ This project is a 3D rail shooter game built in Unity, developed as part of the 
 - **Shoot**: Fire your ship’s weapons using the spacebar or controller buttons.
 - **Objective**: Avoid obstacles and shoot down enemies to progress through the level.
 
+## Screenshots
+Here are some screenshots of the game:
+
+![Screenshot 1](images/Image1.png)
+![Screenshot 2](images/Image2.png)
+![Screenshot 3](images/Image3.png)
+![Screenshot 4](images/Image4.png)
+
 ## Technical Details
 - **Programming Language**: C#.
 - **Project Type**: Unity 3D project.
