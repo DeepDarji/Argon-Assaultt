@@ -20,9 +20,13 @@ This project is a 3D rail shooter game built in Unity, developed as part of the 
 Here are some screenshots of the game:
 
 ![Screenshot 1](Images/Image1.png)
+==========================================
 ![Screenshot 2](Images/Image2.png)
+==========================================
 ![Screenshot 3](Images/Image3.png)
+==========================================
 ![Screenshot 4](Images/Image4.png)
+==========================================
 
 ## Technical Details
 - **Programming Language**: C#.
